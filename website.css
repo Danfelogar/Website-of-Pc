@@ -21,7 +21,7 @@ body{
     font-family: 'Zen Loop', cursive;
 }
 
-/*PART ZERO: LOADING*/
+/*PART ZERO: LOADING (for:4s)*/
 .spiner-container{
     position: absolute;
     top: 0;
