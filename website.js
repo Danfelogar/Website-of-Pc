@@ -1,4 +1,4 @@
-//para tiempo de carga 
+//para tiempo de carga
 window.onload = ()=>{
     setTimeout(()=>{
         document.querySelector('body').classList.add('display')
